@@ -14,7 +14,7 @@ const MidBanner = () => {
         <h1 className="text-4xl font-semibold md:text-2xl lg:text-xl mt-52 md:mt-24 lg:mt-32">
           Gameloft Game
         </h1>
-        <p>Racing/Action</p>
+        <p>Racing Action</p>
 
         <div className="flex mt-2">
           <svg
