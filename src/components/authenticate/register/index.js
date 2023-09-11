@@ -13,7 +13,7 @@ const RegistrationForm = () => {
         <div className="ml-4 md:ml-44 mr-4 md:mr-44 mt-4 md:mt-44 flex flex-col md:flex-row mb-4 md:mb-44">
           <div style={{ width: "251px" }} className="md:w-1/2 p-4 ml-4 md:ml-20">
             <h1 className="text-lg font-bold text-blue-500">Stay in the Snow</h1>
-            <p className="text-sm text-blue-500">Don't get left behind!</p>
+            <p className="text-sm text-blue-500">Do not get left behind!</p>
             <p className="text-sm text-blue-500">Subscribe to our newsletters today!</p>
 
             <form className="h-full">
